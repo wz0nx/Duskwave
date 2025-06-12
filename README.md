@@ -40,7 +40,7 @@
 
 ## 🚀 Get Started
 
-1. Visit [duskwave.ai](https://duskwave.ai)
+1. Visit [duskwave](https://duskwave.vercel.app)
 2. Pick your favorite character
 3. Start chatting under the stars 🌃
 
